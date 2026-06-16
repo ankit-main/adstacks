@@ -1,0 +1,40 @@
+name: adstacks
+
+description: Adstacks Flutter Assignment
+
+publish_to: "none"
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.3.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.8
+
+  google_fonts: ^6.2.1
+  provider: ^6.1.2
+  flutter_svg: ^2.0.10+1
+  fl_chart: ^0.68.0
+  table_calendar: ^3.1.2
+  responsive_builder: ^0.7.0
+  gap: ^3.0.1
+  animations: ^2.0.11
+  cached_network_image: ^3.3.1
+  material_symbols_icons: ^4.2785.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/profile.png
+    - assets/images/logo.png
