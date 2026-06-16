@@ -1,17 +1,63 @@
-# adstacks
+# Adstacks Dashboard
 
-A new Flutter project.
+A responsive Flutter dashboard UI built as part of the Adstacks Flutter Assignment.
+
+## Features
+
+* Responsive design for Desktop, Tablet, and Mobile
+* Sidebar navigation
+* Dashboard analytics UI
+* Project management cards
+* Performance chart
+* Calendar panel
+* Birthday & Anniversary widgets
+* Modern Flutter UI with Material Design
+
+## Tech Stack
+
+* Flutter
+* Provider (State Management)
+* FL Chart
+* Table Calendar
+* Google Fonts
+
+## Project Structure
+
+lib/
+├── core/
+├── data/
+├── models/
+├── providers/
+├── screens/
+├── utils/
+└── widgets/
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+1. Clone the repository
 
-A few resources to get you started if this is your first Flutter project:
+```bash
+git clone https://github.com/ankit-main/adstacks.git
+```
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+2. Install dependencies
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```bash
+flutter pub get
+```
+
+3. Run the project
+
+```bash
+flutter run
+```
+
+## Screens
+
+* Desktop Dashboard
+* Tablet Dashboard
+* Mobile Dashboard
+
+## Author
+
+Ankit
